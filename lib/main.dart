@@ -206,7 +206,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
@@ -229,7 +229,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
@@ -246,7 +246,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
@@ -263,7 +263,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
@@ -280,7 +280,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
@@ -297,7 +297,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
@@ -314,7 +314,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
@@ -331,7 +331,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ],
             ),
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
 
               // ignore: prefer_const_literals_to_create_immutables
               children: <Widget>[
